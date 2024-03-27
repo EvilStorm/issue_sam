@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
         webView.setLayerType(View.LAYER_TYPE_HARDWARE, null)
 
 
-        webView.loadUrl("http://192.168.0.42:3000/ModuleTest?moduleId=P15MA20185&resumePageUId=P15MA20185-5&resourceType=1")
+        webView.loadUrl("https://dev-aio-web-viewer.difinition.co.kr/ModuleTest?moduleId=P15MA20185&resumePageUId=P15MA20185-5&resourceType=1")
 
     }
 
